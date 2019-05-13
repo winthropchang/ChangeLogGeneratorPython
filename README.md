@@ -15,8 +15,8 @@ Next output format will support [AngularJS commit conventions](https://docs.goog
 
 *Why not use exist git log export tool?*  
 ---
-Because I want a simplest tool to finished my job.  
-I don't want to install too many plugins or modules. 
+Because I want a simplest tool to finish my job.  
+I don't want to install too many plugins or modules.  
 And too many command instruction will make this worse.  
 Simple way is the best and python is the best tool to do this!  
 If you don't like the output,you can modify by yourself.  
